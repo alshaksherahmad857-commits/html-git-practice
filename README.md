@@ -1,2 +1,2 @@
 # html-git-practice
-this project to practice to git and githup
+This project contains an HTML page used to practice Git and GitHub.
